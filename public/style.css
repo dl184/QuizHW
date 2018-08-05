@@ -1,0 +1,54 @@
+body{
+  background-color:  blue;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+main{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  font-size: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+
+img {
+  max-height: 400px;
+}
+
+select {
+  height: 30px;
+  border: 2px solid black;
+  font-size: 18px;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+h3{
+    background-color: #ED0E0E;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
